@@ -3,6 +3,7 @@
 Solution that converts currency to it's written description.
 
 It depends on [Humanizer](https://humanizr.net/) to converts the numbers to their descriptions, and then adds on top with the specifics of currency.
+implemented in .Net core as a console app.
 
 ## Usage
 
